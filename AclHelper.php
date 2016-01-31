@@ -16,13 +16,13 @@ class AclHelper extends AppHelper {
      * Инициализация Auth-компонента в хелпере
      * @var
      */
-    public $Html;
+    public $Auth;
 
     /**
      * Инициализация HTML-хелпера
      * @var
      */
-    public $Auth;
+    public $Html;
 
     /**
      * AclHelper constructor
