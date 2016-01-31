@@ -1,4 +1,4 @@
-## AclHelper
+# AclHelper
 Acl helper for CakePHP 2.x access control list component
 
 ## Usage
